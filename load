@@ -232,7 +232,7 @@
       "getgenv": {
           "label": "getgenv();",
           "type": "Method",
-          "description": "Returns the environment that will be applied to each script ran by salad.",
+          "description": "Returns the environment that will be applied to each script ran by flame.",
           "insert": "getgenv"
       },
       "rconsoleprint": {
